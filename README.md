@@ -26,3 +26,22 @@ Running launcher.R will assign above variables and launch the scripts below. Aft
  - save boxplots locally
  - prepare facet dataframes
  - save facets locally
+ 
+ 
+### Sample outputs
+Screenshots below of various outputs from sample data
+
+`gg.facet`
+![gg.facet](/Screenshots/gg-facet.png)
+
+`All.points.data`
+![All.points.data](/Screenshots/All.points.data.png)
+
+`gg.exo`
+![gg.exo](/Screenshots/gg.exo.png)
+
+`gg.del`
+![gg.del](/Screenshots/gg.del.png)
+
+`gg.dur`
+![gg.dur](/Screenshots/gg.dur.png)
